@@ -1,3 +1,11 @@
+/* START TUTORIAL OVERRIDES */
+
+input {
+  color: #fff !important;
+}
+
+/* END TUTORIAL OVERRIDES */
+
 .App {
   text-align: center;
 }
